@@ -3,7 +3,7 @@
 Python script to get all the license codes from all the systems managed under a NX Cloud account.
 
 Change the login and password.
-The login must be the administrator cloud user.
+The login must be the administrator cloud email user.
 
 Run the python script:
 ```
